@@ -1,1 +1,1 @@
-FROM ubuntu:latesttt
+FROM ubuntu:latest
